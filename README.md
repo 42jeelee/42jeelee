@@ -11,10 +11,10 @@ _techs I've used at least once_
 #### DBS 💾
 ![mongoDB](https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![mariaDB](https://img.shields.io/badge/mariaDB-003545?style=flat&logo=MariaDB&logoColor=white) ![postgreSQL](https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
 #### TOOLS 🪚
-![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
-![vim](https://img.shields.io/badge/vim-019733?style=flat&logo=vim&logoColor=white) ![visual studio code](https://img.shields.io/badge/visual%20studio-code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white) ![eclipse](https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white)
+![git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)  
+![vim](https://img.shields.io/badge/vim-019733?style=flat&logo=vim&logoColor=white) ![visual studio code](https://img.shields.io/badge/visual%20studio-code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white) ![eclipse](https://img.shields.io/badge/eclipse-2C2255?style=flat&logo=EclipseIDE&logoColor=white)  
 ![spring](https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![react](https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white) ![graphQL](https://img.shields.io/badge/graphQL-E10098?style=flat&logo=GraphQL&logoColor=white) ![styled-compnents](https://img.shields.io/badge/styled_compnents-DB7093?style=flat&logo=Styled-components&logoColor=white) ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=JQuery&logoColor=white) ![node.js](https://img.shields.io/badge/node.js-339933?style=flat&logo=node.js&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) ![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white) ![homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat&logo=Homebrew&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white) ![yarn](https://img.shields.io/badge/yarn-2C8EBB?style=flat&logo=Yarn&logoColor=white) ![homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=flat&logo=Homebrew&logoColor=white)  
 ![chrome](https://img.shields.io/badge/Chrome-4285F4?style=flat&logo=GoogleChrome&logoColor=white)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,23&height=90&section=footer)
