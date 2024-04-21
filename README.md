@@ -6,7 +6,7 @@
 ### 💻Tech Stacks💻
 _techs I've used at least once_
 #### 🗞 Languages
-![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) ![c++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=flat&logo=HTML5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=Typescript&logoColor=white) ![pug](https://img.shields.io/badge/pug-A86454?style=flat&logo=Pug&logoColor=white)
+![c](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white) ![c++](https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white) ![python](https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=flat&logo=HTML5&logoColor=white) ![css](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=CSS3&logoColor=white) ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white) ![typescript](https://img.shields.io/badge/typescript-3178C6?style=flat&logo=Typescript&logoColor=white)
 #### DBS 💾
 ![mongoDB](https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white) ![mariaDB](https://img.shields.io/badge/mariaDB-003545?style=flat&logo=MariaDB&logoColor=white) ![postgreSQL](https://img.shields.io/badge/postgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white)
 #### TOOLS 🪚
